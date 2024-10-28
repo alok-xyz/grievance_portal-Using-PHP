@@ -1,0 +1,4 @@
+ErrorDocument 404 /grievance_portal/404.php
+DirectoryIndex index.php
+
+
